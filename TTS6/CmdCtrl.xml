@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="gb2312"?>
+   -<GRAMMAR LANGID="804">
+   -<DEFINE>
+  <IDNAME="CMD" VAL="10" />
+  </DEFINE>
+
+ -<RULE NAME="COMMAND" ID="CMD" TOPLEVEL="ACTIVE">
+ -<L>
+  <p>竖立</p>
+  <p>右旋转</p>
+  <p>倒下</p>
+  <p>左旋转</p>
+    </L>
+
+    </RULE>
+
+    </GRAMMAR>
