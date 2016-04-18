@@ -1,0 +1,5 @@
+*.pro.user
+/QT/socket/*Debug
+/QT/socket/*release
+*Debug
+/Debug

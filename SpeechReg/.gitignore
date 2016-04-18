@@ -1,0 +1,7 @@
+*.pro.user
+/QT/socket/*Debug
+/QT/socket/*release
+*.opensdf
+*.sdf
+SpeechReg/Debug
+SpeechReg/*.user
