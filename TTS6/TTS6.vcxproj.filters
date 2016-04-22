@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{74ce7866-fdd7-46ad-97d0-5b5beb88b80b}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{33f05f80-6981-4a04-99f5-1479c96a518d}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{7f9645be-11ef-4b90-8c85-b5457530f0e4}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="agentctlanimationnames.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlaudioobjectex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlballoonex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlcharacterex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlcharacters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlcommand.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlcommandex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlcommandsex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlcommandswindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlpropertysheet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlrequest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="agentctlspeechinput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TTS6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TTS6Dlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TTS6.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="agentctlanimationnames.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlaudioobjectex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlballoonex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlcharacterex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlcharacters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlcommand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlcommandex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlcommandsex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlcommandswindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlpropertysheet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlrequest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="agentctlspeechinput.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TTS6.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TTS6Dlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\TTS6.ico">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\TTS6.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
